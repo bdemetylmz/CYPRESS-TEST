@@ -15,11 +15,7 @@ it('Visit to login page', function () {
 })
 
 
-//homepage - popup - gender
-
-//cy.reload()-> sayfanın tekrar yüklenmesi için
-
-//cy.clearCookies()
+//cy.reload()
 
 //enter tuşuna tıklayabiliriz 
 //cy.get('selector').type('{ enter }')
