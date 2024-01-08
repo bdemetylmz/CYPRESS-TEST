@@ -1,0 +1,6 @@
+{
+    "devDependencies": {
+        "cypress": "4.0.2",
+        "cypress-if": "^1.10.5"
+    }
+}
